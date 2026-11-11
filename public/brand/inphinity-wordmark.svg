@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="400" height="96" role="img" aria-label="InΦnity">
+  <!-- Text uses the IBM Plex Sans font when installed; convert to outlines before print use. -->
+  <text x="0" y="36" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-0.8" fill="#12161b">In</text>
+  <g fill="none" stroke="#12161b" stroke-width="3.2" transform="translate(40 3) scale(1.45)">
+    <circle cx="12" cy="15" r="8.2"/>
+    <line x1="12" y1="1" x2="12" y2="29"/>
+  </g>
+  <text x="77" y="36" font-family="'IBM Plex Sans', 'Segoe UI', Arial, sans-serif" font-size="40" font-weight="600" letter-spacing="-0.8" fill="#12161b">nity</text>
+</svg>
